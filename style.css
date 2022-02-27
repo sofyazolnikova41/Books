@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    background-color: LightBlue;
+}
+
+a {
+    color: Turquoise;
+    text-decoration: none;
+    font-size: 21px;
+    margin: 9px;
+}
+nav{
+    color: LightSteelBlue;
+    background-color: black;
+    font-size: 21px;
+    margin: 9px;
+     border-radius: 10px;
+}
+header {
+    background-color: white;
+    margin: 9px;
+    padding: 10px;
+    border-radius: 10px;
+}
+h1 {
+    font-family: sans-serif;
+    background-color: LightCyan;
+    margin: 9px;
+    padding: 10px;
+    font-size: 40px;
+}
+footer {
+    font-family: sans-serif;
+    background-color: LightCyan;
+    margin: 9px;
+    padding: 10px;
+    font-size: 20px;
+}
+.book {
+   background-color: LightCyan;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 5px solid navy;
+    text-align: center;
+}
+h2 {
+    font-family: sans-serif;
+    background-color: LightSteelBlue;
+    margin: 9px;
+    padding: 10px;
+    font-size: 40px;
+}
